@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I am Minhaz Chowdhury</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 💬 Ask me about **Javascript,Python,Django, Django Rest Framework,PostGreSQL**
+- 💬 Ask me about **Javascript,Python,Django, Django Rest Framework,FastAPI, PostGreSQL**
 
 - 📫 How to reach me **minhazchowdhury810@gmail.com**
 
