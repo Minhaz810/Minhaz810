@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **minhazchowdhury810@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10SQrgczbmjnvDKJExJUrXTVQFaIM1B8k/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B3ev1vGhycqdmpxxI3iE9pXPiG2-s6ou/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
