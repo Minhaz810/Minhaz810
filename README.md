@@ -9,7 +9,7 @@
 - 🧩 Solved **400+ problems** on LeetCode, HackerRank, and Codeforces
 - 🏆 **Employee of the Month** – Infinitibit LTD (November 2025)
 - 📫 How to reach me: **minhazchowdhury810@gmail.com**
-- 🌐 Portfolio: [Visit Here](https://your-portfolio-link.com)
+- 🌐 Portfolio: [Visit Here](https://minhaz-chowdhury-dev.netlify.app/)
 - ⚡ Fun fact: I built a browser automation agent that configured **1,200 WiFi routers** automatically!
 
 <br>
