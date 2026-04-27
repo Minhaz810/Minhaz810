@@ -63,6 +63,3 @@
 
 [![Minhaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhaz810&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz810&show_icons=true&theme=buefy&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
