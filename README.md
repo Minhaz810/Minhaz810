@@ -52,14 +52,3 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 <br>
-
-<h3 align="left">🚀 Featured Project:</h3>
-
-- **[ChitChatLearn](https://chitchatlearn.com)** — AI-assisted spaced repetition learning app delivered via Telegram. Built with FastAPI, LangChain, Celery & Telegram Webhook.
-
-<br>
-
-<h3>📊 Statistical Data:</h3>
-
-[![Minhaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhaz810&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz810&show_icons=true&theme=buefy&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
